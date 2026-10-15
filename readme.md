@@ -6,4 +6,4 @@
 # Verifiez l'etat du projet 
   git status 
 # Ajoutez un fichier en suivis 
-gid add nomfichier
+gid add nomdufichier
