@@ -6,7 +6,7 @@
 # Verifiez l'etat du projet 
   git status 
 # Ajoutez un fichier en suivis 
-git add nomdufichier 
+git add nomdufichier
 
 # Creer un nouvelle branche 
 git checkout -b nomdebranche 
